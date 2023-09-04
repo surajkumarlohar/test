@@ -1,0 +1,5 @@
+{{#user}}
+Name: Suraj Kumar Lohar
+Skills: HTML, CSS, JavaScript, JQuery, Bootstrap5, Node.js, express.js, EJS, MongoDB, React.js 
+Email: 1471041nshm@gmail.com
+{{/user}}
